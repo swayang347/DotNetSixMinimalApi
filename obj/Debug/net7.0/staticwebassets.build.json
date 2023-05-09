@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BmUu9RIlrV+dYlTyfzwvrrNptznyIxo7NbMB5iogOMI=",
+  "Source": "DotNetSixMinimalApi",
+  "BasePath": "_content/DotNetSixMinimalApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
